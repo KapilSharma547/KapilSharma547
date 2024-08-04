@@ -60,6 +60,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KapilSharma547&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KapilSharma547&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KapilSharma547&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KapilSharma547&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KapilSharma547&layout=compact&theme=vision-friendly-dark)](https://github.com/KapilSharma547)

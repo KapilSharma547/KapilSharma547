@@ -66,7 +66,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KapilSharma547&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<div align="center">
+<div>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KapilSharma547&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KapilSharma547&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KapilSharma547&theme=2077" height="180em" />
